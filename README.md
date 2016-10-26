@@ -1,0 +1,2 @@
+# settingsIntellij
+Configurations Intellij

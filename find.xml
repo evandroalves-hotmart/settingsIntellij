@@ -1,9 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[hot-notifications] - .../hot-notifications'" />
-    <option name="defaultScopeName" value="Directory '[hot-notifications] - .../hot-notifications'" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Project 'workspace_intellij'" />
+    <option name="defaultScopeName" value="Project 'workspace_intellij'" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '[hot-notifications] - .../hot-notifications'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'workspace_intellij'" />
   </component>
 </application>

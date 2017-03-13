@@ -46,6 +46,9 @@
             <Goal>
               <option name="commandLine" value="clean install -Dprofile.set=&quot;staging&quot;" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="mvn clean install -Dprofile.set=&quot;staging&quot;" />
+            </Goal>
           </list>
         </option>
       </Goals>

@@ -5,6 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,6 +17,15 @@
       <mask>*.mxml</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
+      <mask>.java</mask>
+      <mask>Res.java</mask>
+      <mask>Rest.java</mask>
+      <mask>RestM.java</mask>
+      <mask>RestMe.java</mask>
+      <mask>RestMet.java</mask>
+      <mask>RestMeth.java</mask>
+      <mask>RestMetho.java</mask>
+      <mask>RestMethod.java</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>

@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="postbackEvent" type="JSON" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
